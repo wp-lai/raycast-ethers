@@ -3,6 +3,9 @@
 A Raycast extension that provides utilities for Ethereum development.
 
 ## Commands
+- [Create Random Wallet](#create-random-wallet)
+- [Query Network Info](#query-network-info)
+
 ### Create Random Wallet
 
 Create a random wallet, display its address, private key, and mnemonic phrase. This wallet can be used as a throwable wallet in development.

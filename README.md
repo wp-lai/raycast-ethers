@@ -19,8 +19,9 @@ Get the current info of a network such as gasprice and block height.
 ![](./metadata/select-network.png)
 ![](./metadata/query-network-info.png)
 
-## How to use
+## How to install
 
-+ Clone or download to a local directory
-+ In Raycast, search  `Import Extension` command
-+ Choose the local repo directory
+- Clone or download to a local directory
+- In the repo `npm install && npm run build`
+- In Raycast, search  `Import Extension` command
+- Choose the local repo directory

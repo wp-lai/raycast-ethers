@@ -22,6 +22,5 @@ Get the current info of a network such as gasprice and block height.
 ## How to install
 
 - Clone or download to a local directory
-- In Raycast, search  `Import Extension` command
+- In Raycast, search `Import Extension` command, select the local repo
 - In the repo `npm install && npm run build`
-- Choose the local repo directory
